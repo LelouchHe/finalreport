@@ -1,0 +1,11 @@
+*.swp
+*.cfg
+*.bak
+*.aux
+*.bbl
+*.blg
+*.log
+*.nlo
+*.pdf
+*.toc
+*.bib
